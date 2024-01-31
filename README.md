@@ -6,3 +6,5 @@ Collection of my Ops 401 Challenges
 
 [Class 16 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/automated_brute_force_wordlist_attack.py)
 
+[Class 17 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/brute_force_part2.py)
+
