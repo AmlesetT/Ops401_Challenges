@@ -8,3 +8,5 @@ Collection of my Ops 401 Challenges
 
 [Class 17 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/brute_force_part2.py)
 
+[Class 18 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/wordlist_attack_part3.py)
+
