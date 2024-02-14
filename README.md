@@ -20,3 +20,5 @@ Collection of my Ops 401 Challenges
 
 [Class 26 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/event_logging_tool.py)
 
+[Class 27 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/logging_tool_part2.py)
+
