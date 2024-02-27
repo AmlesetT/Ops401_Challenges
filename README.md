@@ -24,3 +24,5 @@ Collection of my Ops 401 Challenges
 
 [Class 28 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/logging_tool_part3.py)
 
+[Class 36 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/web_application_fingerprinting.py)
+
