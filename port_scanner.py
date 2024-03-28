@@ -7,8 +7,6 @@
 # Reason:                       It is helpful to understand which ports within a system are being used and furthermore, which resources are being used on the network.
 
 
-#!/usr/bin/python3
-
 import socket
 
 sockmod = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
