@@ -26,6 +26,8 @@ Collection of my Ops 401 Challenges
 
 [Class 31 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/malware_detection_part1.py)
 
+[Class 32 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/malware_detection_part2.py)
+
 [Class 36 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/web_application_fingerprinting.py)
 
 [Class 37 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/cookie_capture_capades.py)
