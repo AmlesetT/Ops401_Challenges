@@ -34,6 +34,8 @@ Collection of my Ops 401 Challenges
 
 [Class 37 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/cookie_capture_capades.py)
 
+[Class 42 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/attack_tool_part2.py)
+
 [Class 43 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/port_scanner.py)
 
 
