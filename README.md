@@ -12,6 +12,8 @@ Collection of my Ops 401 Challenges
 
 [Class 07 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/encryption_script_part2.py)
 
+[Class 11 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/network_tool_scapy_part1.py)
+
 [Class 16 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/automated_brute_force_wordlist_attack.py)
 
 [Class 17 Challenge](https://github.com/AmlesetT/Ops401_Challenges/blob/main/brute_force_part2.py)
